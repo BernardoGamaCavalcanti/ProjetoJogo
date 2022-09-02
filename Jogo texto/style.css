@@ -1,0 +1,17 @@
+.body{
+   background-image: linear-gradient(to right, #D9ED92, #B5E48C,#99D98C,#76C893,#52B69A,#34A0A4,#168AAD,#1A759F,#1E6091,#184E77);
+}
+
+.iniciar{
+   position: absolute;
+   font-weight: 100%;
+   padding: 1%;
+   color: white;
+   top: 44.5%;
+   right: 45%;
+   font-size: clamp(9.5px , 1vw, 25px);
+   border-radius: 24px;
+   background: #D9ED92, #B5E48C,#99D98C,#76C893,#52B69A,#34A0A4,#168AAD,#1A759F,#1E6091,#184E77;
+   box-shadow:  20px 20px 70px #184E77,
+             -20px -20px 70px #184E77;
+}
